@@ -100,6 +100,7 @@
     "diff": "^5.2.0",
     "difflib": "^0.2.4",
     "dir-glob": "^3.0.1",
+    "dotenv": "^16.4.7",
     "dunder-proto": "^1.0.1",
     "elliptic": "^6.6.1",
     "emoji-regex": "^8.0.0",
